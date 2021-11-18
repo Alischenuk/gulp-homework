@@ -1,0 +1,15 @@
+.fonts {
+  &__ub-bold,
+  &__lato-bold {
+    font-weight: 700;
+  }
+
+  &__lato-bold,
+  &__lato-black {
+    font-family: "Lato", sans-serif;
+  }
+
+  &__lato-black {
+    font-weight: 900;
+  }
+}
